@@ -588,7 +588,7 @@
     background-color: #ba71da;
 }
 .footer {
-    background-image: url(/assets/image/para-07.jpg);
+    background-image: url(../image/para-07.jpg);
     height: 500px;
     width: 100%;
     background-size: cover;
